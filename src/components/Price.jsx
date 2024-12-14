@@ -23,7 +23,7 @@ const Price = () => {
                             <ul>
                                 {option.features.map((feature, index) => (
                                     <li key={index} className='mt-5 flex items-center'>
-                                        <i class="fa-regular fa-circle-check"></i>
+                                        <i className="fa-regular fa-circle-check"></i>
                                         <span className='mt-2 text-neutral-400 text-sm ml-3'>{feature}</span>
                                     </li>
                                 ))}

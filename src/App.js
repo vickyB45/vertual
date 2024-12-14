@@ -5,6 +5,7 @@ import FeatureSection from "./components/FeatureSection";
 import WorkFlow from "./components/WorkFlow";
 import Price from "./components/Price";
 import Testimonial from "./components/Testimonial";
+import Footer from "./components/Footer";
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
     <Price/>
     <Testimonial/>
     </div>
+    <Footer/>
   </>
   );
 }

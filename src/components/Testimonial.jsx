@@ -20,6 +20,21 @@ const Testimonial = () => {
           </div>
         ))} 
       </div>
+      <marquee behavior="left" direction="scroll" scrolldelay="100">
+      <div className="main flex">
+      <img src="https://res.cloudinary.com/vistaprint/images/w_1024,h_389,c_scale,w_848,h_322,dpr_1.5/f_auto,q_auto/v1719942405/ideas-and-advice-prod/blogadmin/nike-logo/nike-logo.png?_i=AA" alt="" />
+        <img src="https://res.cloudinary.com/vistaprint/images/c_scale,w_448,h_299,dpr_1.5/f_auto,q_auto/v1719942393/ideas-and-advice-prod/blogadmin/logo-chanel/logo-chanel.png?_i=AA" alt="" />
+        <img src="https://res.cloudinary.com/vistaprint/images/c_scale,w_772,h_444,dpr_1.5/f_auto,q_auto/v1719942371/ideas-and-advice-prod/blogadmin/mc-donald-logo/mc-donald-logo.jpg?_i=AA" alt="" />
+        <img src="https://res.cloudinary.com/vistaprint/images/c_scale,w_300,h_385,dpr_1.5/f_auto,q_auto/v1719942420/ideas-and-advice-prod/blogadmin/tesla-logo/tesla-logo.png?_i=AA" alt="" />
+        <img src="https://res.cloudinary.com/vistaprint/images/w_1024,h_576,c_scale,w_848,h_476,dpr_1.5/f_auto,q_auto/v1719942378/ideas-and-advice-prod/blogadmin/apple-logo/apple-logo.png?_i=AA" alt="" />
+        <img src="https://res.cloudinary.com/vistaprint/images/c_scale,w_600,h_556,dpr_1.5/f_auto,q_auto/v1719942431/ideas-and-advice-prod/blogadmin/shell-logo/shell-logo.png?_i=AA" alt="" />
+        <img src="https://res.cloudinary.com/vistaprint/images/c_scale,w_848,h_848,dpr_1.5/f_auto,q_auto/v1706191816/ideas-and-advice-prod/blogadmin/Screenshot-2024-01-25-at-15.09.28/Screenshot-2024-01-25-at-15.09.28.png?_i=AA" alt="" />
+        <img src="https://res.cloudinary.com/vistaprint/images/c_scale,w_848,h_277,dpr_1.5/f_auto,q_auto/v1706089184/ideas-and-advice-prod/en-us/Coca-Cola_logo.svg_/Coca-Cola_logo.svg_.png?_i=AA" alt="" />
+        <img src="https://res.cloudinary.com/vistaprint/images/c_scale,w_448,h_204,dpr_1.5/f_auto,q_auto/v1719942403/ideas-and-advice-prod/blogadmin/nasa-logo/nasa-logo.png?_i=AA" alt="" />
+        <img src="https://res.cloudinary.com/vistaprint/images/c_scale,w_693,h_319,dpr_1.5/f_auto,q_auto/v1719942391/ideas-and-advice-prod/blogadmin/ibm-logo/ibm-logo.png?_i=AA" alt="" />
+        <img src="https://res.cloudinary.com/vistaprint/images/w_1024,h_412,c_scale,w_848,h_341,dpr_1.5/f_auto,q_auto/v1719942440/ideas-and-advice-prod/blogadmin/marvel-logo/marvel-logo.png?_i=AA" alt="" />
+      </div>
+      </marquee>
     </div>
   )
 }

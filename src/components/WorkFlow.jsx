@@ -14,7 +14,7 @@ const WorkFlow = () => {
                     {checklistItem.map((item, index) => (
                         <div key={index} className='flex mb-12'>
                             <div className="text-green-400 bg-neutral-900  h-10 w-10 p-2 flex justify-center items-center rounded-full text-xl">
-                            <i class="fa-regular fa-circle-check"></i>
+                            <i className="fa-regular fa-circle-check"></i>
                             </div>
                             <div>
                                 <h5 className='mt-1 mb-2 texl-xl'>{item.title}</h5>
